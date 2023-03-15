@@ -6,17 +6,17 @@
 
 ## Documentations
 
-#### Public Yellow Taxi Trips 19/20 Dashboard
+#### Public Yellow Taxi Trips 19/20 [Dashboard](https://lookerstudio.google.com/s/mLQK20FcwGA)
 
 #### Pyspark Installation Guide
-<strong>What is PySpark?</strong>
+<strong>What is PySpark?</strong><br>
 <strong>PySpark</strong> is the Python API for Apache Spark, which is a distributed data processing framework designed to handle large-scale data processing tasks. PySpark allows developers to use the Python programming language to interact with Spark, enabling them to write distributed data processing applications using familiar Python syntax.
 
 PySpark provides an intuitive and easy-to-use programming interface for processing large volumes of data in parallel across a cluster of machines. It offers a high-level abstraction layer for distributed data processing, making it easy to develop and deploy complex data processing applications without needing to write low-level code for handling parallelism, fault-tolerance, and data distribution.
 
 Some of the key features of PySpark include support for distributed data processing, in-memory processing, batch processing, and real-time streaming processing. PySpark also provides support for a wide range of data sources and formats, including Hadoop Distributed File System (HDFS), Apache Parquet, JSON, CSV, and more. Additionally, PySpark provides a range of built-in libraries and APIs for machine learning, graph processing, and data visualization, making it a powerful tool for building end-to-end data processing pipelines.
 
-<strong>How to install PySpark?</strong>
+<strong>How to install PySpark?</strong><br>
 To install PySpark, you need to follow these steps:
 1. Install Java: PySpark requires Java 8 or later versions to be installed on our machine. We can download and install Java from the official [website](https://www.java.com/en/download/) of Oracle or OpenJDK.
 
