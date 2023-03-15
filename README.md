@@ -4,10 +4,10 @@
 
 |   No  |       Project      |     Repos    |
 | ----- |   -----------   | ----------- |
-|   1   | Google jobs dataflow      | Title       |
-|   2   | Data ingesting using Airflow   | Text        |
-|   3   | Exploration public data bquery   | Text        |
-|   4   | DBT analytics      | Title       |
+|   1   | Google jobs dataflow      | Link       |
+|   2   | Data ingesting using Airflow   | Link        |
+|   3   | Exploration public data bquery   | Link        |
+|   4   | DBT analytics      | Link       |
 |   5   | Data visualization, transformation & batch proc   | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/data%20visualization)        |
 
 
