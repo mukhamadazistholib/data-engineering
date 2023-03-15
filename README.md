@@ -1,4 +1,5 @@
 # Data Engineering Fast-Track Repository
+![img](assets/Banner-LinkedIn.jpg)
 
 ## Table of content
 
