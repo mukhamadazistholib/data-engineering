@@ -17,6 +17,7 @@ PySpark provides an intuitive and easy-to-use programming interface for processi
 Some of the key features of PySpark include support for distributed data processing, in-memory processing, batch processing, and real-time streaming processing. PySpark also provides support for a wide range of data sources and formats, including Hadoop Distributed File System (HDFS), Apache Parquet, JSON, CSV, and more. Additionally, PySpark provides a range of built-in libraries and APIs for machine learning, graph processing, and data visualization, making it a powerful tool for building end-to-end data processing pipelines.
 
 <strong>How to install PySpark?</strong><br>
+![img](assets/spark-shell.png)
 To install PySpark, you need to follow these steps:
 1. Install Java: PySpark requires Java 8 or later versions to be installed on our machine. We can download and install Java from the official [website](https://www.java.com/en/download/) of Oracle or OpenJDK.
 

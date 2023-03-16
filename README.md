@@ -10,6 +10,7 @@
 |   3   | Exploration public data bquery   | Link        |
 |   4   | DBT analytics      | Link       |
 |   5   | Data visualization, transformation & batch proc   | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/data%20visualization)        |
+|   6   | Spark SQL   | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/spark%20sql)        |
 
 
 ## Contributor
