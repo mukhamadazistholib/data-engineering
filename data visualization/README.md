@@ -6,7 +6,7 @@
 
 ## Documentations
 
-#### Public Yellow Taxi Trips 19/20 [Dashboard](https://lookerstudio.google.com/s/mLQK20FcwGA)
+#### Public Yellow Taxi Trips 19/20 [Dashboard](https://lookerstudio.google.com/s/mSz6w6l0w3o)
 
 #### Pyspark Installation Guide
 <strong>What is PySpark?</strong><br>
