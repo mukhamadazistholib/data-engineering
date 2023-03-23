@@ -11,6 +11,8 @@
 |   4   | DBT analytics      | [Link](https://github.com/mukhamadazistholib/dbt-analytics)       |
 |   5   | Data visualization, transformation & batch proc   | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/data%20visualization)        |
 |   6   | Spark SQL   | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/spark%20sql)        |
+|   7   | Kafka   | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/data%20visualization)        |
+|   8   | Kafka (Streaming Processing)   | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/spark%20sql)        |
 
 
 ## Contributor
