@@ -1,5 +1,6 @@
 from confluent_kafka import Consumer
-################
+import json
+
 c=Consumer({'bootstrap.servers':'localhost:9092','group.id':'python-consumer','auto.offset.reset':'earliest'})
 print('Kafka Consumer has been initiated...')
 
