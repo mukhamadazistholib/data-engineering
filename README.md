@@ -13,8 +13,8 @@
 |   6   | Spark SQL                     | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/spark%20sql)        |
 |   7   | Kafka                         | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/kafka)        |
 |   8   | Kafka (Streaming Processing)  | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/kafka%20(streaming%20processing))        |
-|   9   | Avro (Streaming Processing)    | [Link](#)        |
-|   10   | Power BI Visualization    | [Link](#)        |
+|   9   | Avro (Streaming Processing)    | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/avro%20(streaming%20processing))        |
+|   10   | Power BI Visualization    | [Link](https://github.com/mukhamadazistholib/data-engineering/tree/main/power-bi)        |
 |   11   | Tableu Visualization    | [Link](#)        |
 
 
